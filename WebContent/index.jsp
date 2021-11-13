@@ -16,7 +16,11 @@
 	
   <style type="text/css">
   	p {
+<<<<<<< HEAD
   		padding: 30px;}
+=======
+  		padding: 40px;}
+>>>>>>> develop
 
 	#banner{
 		width: 200px;
