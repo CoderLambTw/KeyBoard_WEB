@@ -16,7 +16,7 @@
 	
   <style type="text/css">
   	p {
-  		padding: 20px;}
+  		padding: 30px;}
 
 	#banner{
 		width: 200px;
